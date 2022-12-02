@@ -1,4 +1,4 @@
-package com.repository;
+package com.crisalis.ordermanager.repository;
 
 import java.util.List;
 

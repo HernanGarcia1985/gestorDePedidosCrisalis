@@ -1,4 +1,4 @@
-package com.entity;
+package com.crisalis.ordermanager.entity;
 
 public abstract class Customer {
 	private int id;

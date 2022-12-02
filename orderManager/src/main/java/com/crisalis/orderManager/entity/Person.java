@@ -1,4 +1,4 @@
-package com.entity;
+package com.crisalis.ordermanager.entity;
 
 public class Person extends Customer {
 

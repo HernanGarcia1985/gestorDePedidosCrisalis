@@ -1,4 +1,4 @@
-package com.entity;
+package com.crisalis.ordermanager.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
